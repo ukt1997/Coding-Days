@@ -1,6 +1,6 @@
 # Coding-Days
 
-# Day 1: Python Practice HackerRank 
+## Day 1: Python Practice HackerRank 
 	1.no-idea.py 					
 
 # Day 2: Python Practice HackerRank
