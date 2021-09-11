@@ -22,3 +22,7 @@
 	1.tree-huffman-decoding.py
 	2.binary-search-tree-lowest-common-ancestor.py
 	3.is-binary-search-tree.py
+	
+#### Day 5: Algorithms Practice - HackerRank
+	1.birthday-cake-candles.py
+	2.almost-sorted.py
