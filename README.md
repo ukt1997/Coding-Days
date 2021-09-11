@@ -26,3 +26,4 @@
 #### Day 5: Algorithms Practice - HackerRank
 	1.birthday-cake-candles.py
 	2.almost-sorted.py
+	3.matrix-rotation-algo.py
