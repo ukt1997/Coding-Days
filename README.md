@@ -16,7 +16,9 @@
 
 #### Day 4: DS(Tree) Practice -HackerRank
 	1.level_order_traversal.py
-	2.Swap_node_algo.py			-- This Need Some Improvement 
+	2.Swap_node_algo.py			-- Used	sys.setrecursionlimit(10000) to Pass 3 TestCases It was failing due to Recursion Limit  
 	
 #### Day 5: DS(Tree) Practice -HackerRank
 	1.tree-huffman-decoding.py
+	2.binary-search-tree-lowest-common-ancestor.py
+	3.is-binary-search-tree.py

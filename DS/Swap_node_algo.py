@@ -59,6 +59,7 @@ def map_depth(node,l,m):
  
 def swapNodes(indexes, queries):
     # Write your code here
+    sys.setrecursionlimit(10000)
     Head = create_tree(indexes , 1)
     m = {}
     map_depth(Head,1,m)
