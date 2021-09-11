@@ -20,3 +20,8 @@
 	
 #### Day 5: DS(Tree) Practice -HackerRank
 	1.tree-huffman-decoding.py
+	
+
+#### Day 5: Algorithms Practice - HackerRank
+	1.birthday-cake-candles.py
+	2.almost-sorted.py
