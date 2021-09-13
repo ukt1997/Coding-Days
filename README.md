@@ -32,3 +32,6 @@
 #### Day 6: Algorithms Practice - HackerRank
 	1. morgan-and-a-string.py					/Algo/String
 	
+#### Day 7: Python Practice -HackerRank 
+	1.maximize-it.py							/Python
+	
