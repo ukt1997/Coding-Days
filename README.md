@@ -20,9 +20,9 @@
 		-- Used	sys.setrecursionlimit(10000) to Pass 3 TestCases It was failing due to Recursion Limit  
 	
 #### Day 5: DS(Tree) Practice -HackerRank
-	1.tree-huffman-decoding.py					/DS
+	1.tree-huffman-decoding.py						/DS
 	2.binary-search-tree-lowest-common-ancestor.py	/DS
-	3.is-binary-search-tree.py					/DS
+	3.is-binary-search-tree.py						/DS
 	
 #### Day 5: Algorithms Practice - HackerRank
 	1.birthday-cake-candles.py					/Algo
@@ -35,3 +35,6 @@
 #### Day 7: Python Practice -HackerRank 
 	1.maximize-it.py							/Python
 	
+#### Day 8: Algorithms Practice (String) - HackerRank
+	1.sherlock-and-anagrams.py 					/Algo/String
+	2.two-strings-game.py						/Algo/String			-- Yet To Submit 	
