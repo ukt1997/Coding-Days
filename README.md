@@ -25,9 +25,9 @@
 	3.is-binary-search-tree.py						/DS
 	
 #### Day 5: Algorithms Practice - HackerRank
-	1.birthday-cake-candles.py					/Algo
-	2.almost-sorted.py							/Algo
-	3.matrix-rotation-algo.py					/Algo
+	1.birthday-cake-candles.py					/Algo/Implementation
+	2.almost-sorted.py							/Algo/Implementation
+	3.matrix-rotation-algo.py					/Algo/Implementation
 	
 #### Day 6: Algorithms Practice - HackerRank
 	1. morgan-and-a-string.py					/Algo/String
@@ -37,4 +37,7 @@
 	
 #### Day 8: Algorithms Practice (String) - HackerRank
 	1.sherlock-and-anagrams.py 					/Algo/String
-	2.two-strings-game.py						/Algo/String			-- Yet To Submit 	
+	2.two-strings-game.py						/Algo/String			-- Yet To Submit 
+
+#### Day 9 : Algorithms Practice (Dynamic Programming) - HackerRank
+	1. coin-change.py							/Algo/DP
