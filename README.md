@@ -45,4 +45,5 @@
 #### Day 10 : Algorithms Practice (Dynamic Programming) -HackerRank (16th Sept 2021)
 	1. equal.py 								/Algo/DP
 	
-#### Day 11 : Codechef 
+#### Day 11 : Codechef COOK134C ( Cookoff Oct-2021 ) -- 29th Oct 2021 
+	1.Zeroone.py 								/python
