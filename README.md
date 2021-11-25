@@ -47,3 +47,15 @@
 	
 #### Day 11 : Codechef COOK134C ( Cookoff Oct-2021 ) -- 29th Oct 2021 
 	1.Zeroone.py 								/python
+	
+### Starting LeetCode Algorithm Study-Plan
+
+#### Day 1: 
+	https://leetcode.com/problems/binary-search/   	/LeetCode_study-plan_algorithm/binary-search.py
+
+#### Day 2:
+	https://leetcode.com/problems/first-bad-version/				/LeetCode_study-plan_algorithm/first-bad-version.py	
+	https://leetcode.com/problems/search-insert-position/			/LeetCode_study-plan_algorithm/search-insert-position.py
+	https://leetcode.com/problems/squares-of-a-sorted-array/		/LeetCode_study-plan_algorithm/squares-of-a-sorted-array.py
+	
+
