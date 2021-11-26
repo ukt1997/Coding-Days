@@ -58,4 +58,7 @@
 	https://leetcode.com/problems/search-insert-position/			/LeetCode_study-plan_algorithm/search-insert-position.py
 	https://leetcode.com/problems/squares-of-a-sorted-array/		/LeetCode_study-plan_algorithm/squares-of-a-sorted-array.py
 	
+#### Day 3:
+	https://leetcode.com/problems/rotate-array/						/LeetCode_study-plan_algorithm/rotate-array.py
+	
 
