@@ -51,14 +51,21 @@
 ### Starting LeetCode Algorithm Study-Plan
 
 #### Day 1: 
-	https://leetcode.com/problems/binary-search/   	/LeetCode_study-plan_algorithm/binary-search.py
-
-#### Day 2:
+	https://leetcode.com/problems/binary-search/   					/LeetCode_study-plan_algorithm/binary-search.py
 	https://leetcode.com/problems/first-bad-version/				/LeetCode_study-plan_algorithm/first-bad-version.py	
 	https://leetcode.com/problems/search-insert-position/			/LeetCode_study-plan_algorithm/search-insert-position.py
+
+#### Day 2:
 	https://leetcode.com/problems/squares-of-a-sorted-array/		/LeetCode_study-plan_algorithm/squares-of-a-sorted-array.py
+	https://leetcode.com/problems/rotate-array/						/LeetCode_study-plan_algorithm/rotate-array.py
 	
 #### Day 3:
-	https://leetcode.com/problems/rotate-array/						/LeetCode_study-plan_algorithm/rotate-array.py
+	https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/		/LeetCode_study-plan_algorithm/two-sum-ii-input-array-is-sorted.py
+	https://leetcode.com/problems/move-zeroes/							/LeetCode_study-plan_algorithm/move-zeroes.py
+	
+#### Day 4:
+	https://leetcode.com/problems/reverse-string/					/LeetCode_study-plan_algorithm/reverse-string.py
+	https://leetcode.com/problems/reverse-words-in-a-string-iii/	/LeetCode_study-plan_algorithm/reverse-words-in-a-string-iii.py
+	
 	
 
