@@ -73,3 +73,6 @@
 
 #### Day-1: 02-01-2022
 	1.https://leetcode.com/problems/reshape-the-matrix/
+	
+#### Day-2: 03-01-2022
+	1.https://leetcode.com/problems/pascals-triangle/
