@@ -79,3 +79,6 @@
 	
 #### Day-3: 04-01-2022
 	1.https://leetcode.com/problems/middle-of-the-linked-list/
+
+#### Day-4: 05-01-2022
+	1.https://leetcode.com/problems/first-unique-character-in-a-string/
