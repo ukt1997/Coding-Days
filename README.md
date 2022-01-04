@@ -31,7 +31,7 @@
 	8.equal.py 									/Algo/DP
 	
 	
-### Starting LeetCode Algorithm Study-Plan
+### LeetCode Algorithm Study-Plan-1
 
 #### Day 1: 
 	https://leetcode.com/problems/binary-search/   						/Algo//LeetCode_study-plan_algorithm/binary-search.py
@@ -65,3 +65,4 @@
 
 #### Day-4: 05-01-2022
 	1.https://leetcode.com/problems/first-unique-character-in-a-string/			/DS/first-unique-character-in-a-string.py
+	2.https://leetcode.com/problems/valid-sudoku/submissions/					
