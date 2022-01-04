@@ -76,3 +76,6 @@
 	
 #### Day-2: 03-01-2022
 	1.https://leetcode.com/problems/pascals-triangle/
+	
+#### Day-3: 04-01-2022
+	1.https://leetcode.com/problems/middle-of-the-linked-list/
