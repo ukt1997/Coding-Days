@@ -65,4 +65,7 @@
 
 #### Day-4: 05-01-2022
 	1.https://leetcode.com/problems/first-unique-character-in-a-string/			/DS/first-unique-character-in-a-string.py
-	2.https://leetcode.com/problems/valid-sudoku/submissions/					
+	2.https://leetcode.com/problems/valid-sudoku/submissions/
+	3.https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+	4.https://leetcode.com/problems/longest-substring-without-repeating-characters/
+	5.https://leetcode.com/problems/permutation-in-string/submissions/
