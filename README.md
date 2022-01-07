@@ -72,3 +72,6 @@
 
 #### Day-5: 06-01-2022
 	1.https://leetcode.com/problems/ransom-note/
+
+#### Day-6: 07-01-2022
+	1.https://leetcode.com/problems/valid-anagram/
