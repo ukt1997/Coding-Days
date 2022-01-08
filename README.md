@@ -78,3 +78,4 @@
 	
 #### Day-7: 08-01-2022
 	1.https://leetcode.com/contest/biweekly-contest-69/problems/capitalize-the-title/
+	2.https://leetcode.com/contest/biweekly-contest-69/problems/maximum-twin-sum-of-a-linked-list/
