@@ -75,3 +75,6 @@
 
 #### Day-6: 07-01-2022
 	1.https://leetcode.com/problems/valid-anagram/
+	
+#### Day-7: 08-01-2022
+	1.https://leetcode.com/contest/biweekly-contest-69/problems/capitalize-the-title/
