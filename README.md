@@ -79,3 +79,8 @@
 #### Day-7: 08-01-2022
 	1.https://leetcode.com/contest/biweekly-contest-69/problems/capitalize-the-title/
 	2.https://leetcode.com/contest/biweekly-contest-69/problems/maximum-twin-sum-of-a-linked-list/
+	
+#### Day-8: 09-01-2022
+	1.https://workat.tech/problem-solving/practice/cumulative-sum
+	2.https://workat.tech/problem-solving/practice/positive-cumulative-sum
+	3.https://workat.tech/problem-solving/practice/even-number-of-digits
