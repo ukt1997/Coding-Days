@@ -84,3 +84,5 @@
 	1.https://workat.tech/problem-solving/practice/cumulative-sum
 	2.https://workat.tech/problem-solving/practice/positive-cumulative-sum
 	3.https://workat.tech/problem-solving/practice/even-number-of-digits
+
+#### Day-9: 10-01-2022
