@@ -86,3 +86,7 @@
 	3.https://workat.tech/problem-solving/practice/even-number-of-digits
 
 #### Day-9: 10-01-2022
+	1.https://workat.tech/problem-solving/practice/merge-two-sorted-arrays
+
+#### Day-10: 11-01-2022
+	1.https://workat.tech/problem-solving/practice/largest-contiguous
