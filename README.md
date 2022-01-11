@@ -90,3 +90,4 @@
 
 #### Day-10: 11-01-2022
 	1.https://workat.tech/problem-solving/practice/largest-contiguous
+	2.https://workat.tech/problem-solving/practice/square-sorted-array
