@@ -97,3 +97,4 @@
 	
 #### Day-12: 13-01-2022:
 	1.https://workat.tech/problem-solving/practice/identical-twins
+	2.https://workat.tech/problem-solving/practice/implement-insertion-sort
