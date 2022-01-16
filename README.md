@@ -102,3 +102,6 @@
 	
 #### Day-13: 15-01-2022:
 	1.https://workat.tech/problem-solving/practice/max-consecutive-ones
+	
+#### Day-14: 16-01-2022:
+	1.https://workat.tech/problem-solving/practice/contains-element
