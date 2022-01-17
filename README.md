@@ -110,3 +110,6 @@
 	1.https://workat.tech/problem-solving/practice/negative-numbers-in-sorted-array
 	2.https://workat.tech/problem-solving/practice/print-linked-list
 	3.https://workat.tech/problem-solving/practice/linked-list-to-array
+
+#### Day-16: 18-01-2022:
+	1.https://workat.tech/problem-solving/practice/print-reversed-linked-list
