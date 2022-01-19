@@ -113,3 +113,6 @@
 
 #### Day-16: 18-01-2022:
 	1.https://workat.tech/problem-solving/practice/print-reversed-linked-list
+	
+#### Day-17: 19-01-2022:
+	1.https://workat.tech/problem-solving/practice/reverse-words-string   /Work.tech (DS&A) / reverse-words-string.py
