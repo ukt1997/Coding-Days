@@ -51,69 +51,66 @@
 	https://leetcode.com/problems/reverse-words-in-a-string-iii/		/Algo//LeetCode_study-plan_algorithm/reverse-words-in-a-string-iii.py
 	
 	
-
-### Starting Challenge (Day Streak)
-
-#### Day-1: 02-01-2022
+#### Day-5:
 	1.https://leetcode.com/problems/reshape-the-matrix/
 	
-#### Day-2: 03-01-2022
+#### Day-6:
 	1.https://leetcode.com/problems/pascals-triangle/
 	
-#### Day-3: 04-01-2022
+#### Day-7:
 	1.https://leetcode.com/problems/middle-of-the-linked-list/
 
-#### Day-4: 05-01-2022
+#### Day-8:
 	1.https://leetcode.com/problems/first-unique-character-in-a-string/			/DS/first-unique-character-in-a-string.py
 	2.https://leetcode.com/problems/valid-sudoku/submissions/
 	3.https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 	4.https://leetcode.com/problems/longest-substring-without-repeating-characters/
 	5.https://leetcode.com/problems/permutation-in-string/submissions/
 
-#### Day-5: 06-01-2022
+#### Day-9:
 	1.https://leetcode.com/problems/ransom-note/
 
-#### Day-6: 07-01-2022
+#### Day-10:
 	1.https://leetcode.com/problems/valid-anagram/
 	
-#### Day-7: 08-01-2022
+#### Day-11:
 	1.https://leetcode.com/contest/biweekly-contest-69/problems/capitalize-the-title/
 	2.https://leetcode.com/contest/biweekly-contest-69/problems/maximum-twin-sum-of-a-linked-list/
 	
-#### Day-8: 09-01-2022
+#### Day-12:
 	1.https://workat.tech/problem-solving/practice/cumulative-sum
 	2.https://workat.tech/problem-solving/practice/positive-cumulative-sum
 	3.https://workat.tech/problem-solving/practice/even-number-of-digits
 
-#### Day-9: 10-01-2022
+#### Day-13:
 	1.https://workat.tech/problem-solving/practice/merge-two-sorted-arrays
 
-#### Day-10: 11-01-2022
+#### Day-14:
 	1.https://workat.tech/problem-solving/practice/largest-contiguous
 	2.https://workat.tech/problem-solving/practice/square-sorted-array
 	
-#### Day-11: 12-01-2022:
+#### Day-15:
 	1.https://workat.tech/problem-solving/practice/row-column-zero
 	
-#### Day-12: 13-01-2022:
+#### Day-16:
 	1.https://workat.tech/problem-solving/practice/identical-twins
 	2.https://workat.tech/problem-solving/practice/implement-insertion-sort
 	3.https://workat.tech/problem-solving/practice/merge-sorted-subarrays
 	
-#### Day-13: 15-01-2022:
+#### Day-17:
 	1.https://workat.tech/problem-solving/practice/max-consecutive-ones
 	
-#### Day-14: 16-01-2022:
+#### Day-18:
 	1.https://workat.tech/problem-solving/practice/contains-element
 	
-#### Day-15: 17-01-2022:
+#### Day-19:
 	1.https://workat.tech/problem-solving/practice/negative-numbers-in-sorted-array
 	2.https://workat.tech/problem-solving/practice/print-linked-list
 	3.https://workat.tech/problem-solving/practice/linked-list-to-array
 
-#### Day-16: 18-01-2022:
+#### Day-20:
 	1.https://workat.tech/problem-solving/practice/print-reversed-linked-list
 	
-#### Day-17: 19-01-2022:
+#### Day-21:
 	1.https://workat.tech/problem-solving/practice/reverse-words-string   /Work.tech /reverse-words-string.py
 	2.https://workat.tech/problem-solving/practice/k-substring-vowels	  /Work.tech / k-substring-vowels.py
