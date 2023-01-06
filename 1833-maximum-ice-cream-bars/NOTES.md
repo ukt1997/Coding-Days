@@ -1,1 +1,1 @@
-​
+* If we sort and iterate ove rthe list and keep reducing the coins it can be solved in n(log(n))
