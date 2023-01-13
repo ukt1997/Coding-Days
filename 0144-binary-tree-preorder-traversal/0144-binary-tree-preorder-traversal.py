@@ -7,17 +7,17 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         # Pre Order Means Order will be : Root - Left - Right 
+        stack = []
+        ret = []
         if root:
-            ret = [root.val]
-            if root.left:
-                L = self.preorderTraversal(root.left)
-                ret.extend(L)
-            if root.right:
-                R = self.preorderTraversal(root.right)
-                ret.extend(R)
-            return ret
-        else:
-            return []
+            stack.append(root)
+            while stack:
+                cur = stack.pop()
+                ret.append(cur.val)
+                print(ret)
+                if cur.right: stack.append(cur.right)
+                if cur.left: stack.append(cur.left)
+        return ret
             
             
         
