@@ -16,6 +16,7 @@ class Solution:
             return
         for i in range(index, len(s)):
             if self.isPalindrome(s, index, i):
+                #print("This is Palidrome ", s[index:i+1])
                 path.append(s[index:i+1])
                 self.helper(i+1, s, path, palindrome)
                 path.pop()
