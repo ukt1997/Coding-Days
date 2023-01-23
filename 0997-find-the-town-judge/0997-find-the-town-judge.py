@@ -10,10 +10,10 @@ class Solution:
         for cur in trust:
             ret[cur[1]] += 1
             supporter.append(cur[0])
-        print(ret)
+        #print(ret)
         max_vote = max(ret)
         candidate = [i for i,x in enumerate(ret) if x==max_vote] # => [1, 3]
-        print(candidate)
+        #print(candidate)
         if len(candidate) == 1 and max_vote == n - 1 and candidate[0] not in supporter:
             return candidate[0]
         return -1
