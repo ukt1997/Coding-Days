@@ -8,24 +8,20 @@ class Solution:
         node2_visited = [-1] * len(edges)
         n1 = node1
         node1_path[n1] = 0
+        n2 = node2
+        node2_path[n2] = 0
         cnt = 0
         while edges[n1] != -1 and node1_visited[n1] == -1:
-            #print(n1)
             cnt += 1
             node1_visited[n1] = 1
             if node1_path[edges[n1]] < 0 :node1_path[edges[n1]] = cnt
             n1 = edges[n1]
-        n1 = node2
-        node2_path[n1] = 0
         cnt = 0
-        while edges[n1] != -1 and node2_visited[n1] == -1:
-            #print(n1)
+        while edges[n2] != -1 and node2_visited[n2] == -1:
             cnt += 1
-            node2_visited[n1] = 1
-            if node2_path[edges[n1]] < 0: node2_path[edges[n1]] = cnt
-            n1 = edges[n1]
-        #print(node1_path)
-        #print(node2_path)
+            node2_visited[n2] = 1
+            if node2_path[edges[n2]] < 0: node2_path[edges[n2]] = cnt
+            n2 = edges[n2]
         
         path = []
         for i in range(len(edges)):
