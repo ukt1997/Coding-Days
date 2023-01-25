@@ -23,14 +23,12 @@ class Solution:
             if node2_path[edges[n2]] < 0: node2_path[edges[n2]] = cnt
             n2 = edges[n2]
         
-        path = []
         ret = -1
         max_dis = 2*len(edges)
         for i in range(len(edges)):
             p1 = node1_path[i]
             p2 = node2_path[i]
             if p1 >= 0 and p2 >= 0:
-                #path.append((max(p1,p2) , i))
                 if ret == -1:
                     max_dis = max(p1,p2)
                     ret = i
@@ -38,7 +36,6 @@ class Solution:
                     max_dis = max(p1,p2)
                     ret = i
             
-        #path.sort()
             
-        return ret #-1 if len(path) == 0 else path[0][1]
+        return ret
         
